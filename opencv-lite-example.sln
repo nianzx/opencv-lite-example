@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "opencv-lite-example", "opencv-lite-example.csproj", "{96BFDE3F-0C41-4668-85E0-5DEC2A83E56E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{96BFDE3F-0C41-4668-85E0-5DEC2A83E56E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96BFDE3F-0C41-4668-85E0-5DEC2A83E56E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96BFDE3F-0C41-4668-85E0-5DEC2A83E56E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96BFDE3F-0C41-4668-85E0-5DEC2A83E56E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
